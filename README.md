@@ -9,7 +9,7 @@
 <a href="https://www.linkedin.com/in/alok-urmaliya-298753212/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg"></a>
 <a href="mailto:alokurmaliya0123@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836"></a>
 <a href="https://telegram.me/alok_urmaliya"><img src="https://img.shields.io/badge/Telegram-2CA5E0"></a>
-<a href="https://www.instagram.com/alok_urmaliya_"><img src="https://img.shields.io/badge/alok_urmaliya_"/></a>
+<a href="https://www.instagram.com/alok_urmaliya_"><img src="https://img.shields.io/badge/alok_urmaliya_-%23E4405F.svg"/></a>
 
 
 <br>
