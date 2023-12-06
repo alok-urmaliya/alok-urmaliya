@@ -5,7 +5,7 @@
 
 #### About Me
 
-- Hello! My name is Alok and I enjoy developing applications/websites that live online. I'm also in my final year pursuing B.Tech from Global Engineering College, Jabalpur (2020-2024).
+- Hello! My name is Alok and I enjoy developing applications/websites that live online. I'm also in my final year pursuing B.Tech (2020-2024).
 - Currently, I’m focused on building accessible, human-centered software solutions at Sumati.io.
 
 <br>
